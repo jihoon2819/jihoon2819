@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 안녕하세요! 박지훈입니다.
 
-<!--
-**jihoon2819/jihoon2819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+프론트엔드부터 인공지능 기반 분석까지 다양한 기술을 탐구하는 개발자입니다.  
+협업과 정돈된 사고를 바탕으로, 기술을 통해 사람들에게 실질적인 가치를 전하는 프로젝트를 만드는 데 관심이 많습니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 주요 프로젝트
+
+### 🐾 Petmily - 반려동물 산책 커뮤니티 플랫폼  
+[🔗 GitHub 바로가기](https://github.com/codestates-seb/seb44_main_031)
+
+> **기간:** 2023.06.28 ~ 2023.07.24  
+> **배포 주소:** http://frontbucketpetmily.s3-website.ap-northeast-2.amazonaws.com/  
+> **테스트 계정:** ID: yahun722@naver.com / PW: qweasd123
+
+**소개:**  
+사용자들이 반려견과 함께 산책하며, 주변 이웃들과 소통할 수 있는 웹 커뮤니티 플랫폼입니다.  
+**페이지 구성 및 주요 기능:**  
+- 산책글 목록 및 상세 페이지  
+- 산책글 작성 및 마이페이지  
+- 이메일 인증을 포함한 회원가입 / 로그인  
+
+**기여:**  
+- **프론트엔드 전반:** React + Recoil + Styled-components 기반 UI 구성  
+- **유저 인증 흐름:** 비밀번호 정규식, 이메일 인증 로직 설계  
+- **백엔드 일부:** REST API 통신  
+- **협업 문화:** Git Flow, 커밋 메시지 규칙화, 코드 리뷰 중심 개발
+
+**기술 스택:** React, Recoil, Vite, Express, AWS S3, Node.js, MongoDB
+
+---
+
+### 🛰️ 건물 손상도 평가 - 위성 이미지 기반 AI 모델  
+[🔗 GitHub 바로가기](https://github.com/npng-lab)
+
+> **주제:** 위성 이미지 분할을 활용한 건물 이미지 손상도 평가  
+> **형태:** 실험적 AI 분석 프로젝트
+
+**소개:**  
+자연재해 또는 재난 발생 이후, 위성 이미지를 통해 지역 건물의 손상도를 자동으로 평가하는 모델을 개발했습니다.
+
+**기술적 특징:**  
+- 위성 이미지 데이터셋 기반 건물 분할(Segmentation)  
+- 딥러닝 모델ResNet 기반 손상도 분류  
+- 데이터 전처리, augmentation, 학습 평가까지 전 과정 수행  
+
+**기여:**  
+- 데이터 수집 및 전처리, 분할 모델 학습  
+- 손상도 분류 기준 정립 및 시각화 도구 개발  
+- 프로젝트 구조화 및 코드 리팩토링  
+- 기술 문서화 및 실험 결과 관리
+
+**사용 기술:** Python, Tensor Flow, OpenCV, segmentation_models_pytorch, Google Colab, Git
+
+---
+
+## 💡 제가 추구하는 개발자
+
+- 🤝 **협업형 개발자**: 논의하고 조율하는 과정을 중시합니다.  
+- 🧠 **기획부터 구현까지**: 흐름을 이해하고 전 과정을 통합적으로 설계합니다.  
+- 🚀 **기술 실험을 즐기는 탐구자**: 낯선 기술도 직접 부딪히며 경험합니다.
+
+---
+
+## 📫 연락처 및 포트폴리오
+
+- 📧 Email: parkjihoon98@gmail.com
+
+---
+
+💬 읽어주셔서 감사합니다!  
+깃허브 활동 외에도 다양한 기술 실험을 기록하고 있으니 언제든지 구경하고 의견 주세요 😊
